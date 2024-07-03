@@ -1,0 +1,8 @@
+1.Flask Documentation
+https://flask.palletsprojects.com/en/2.0.x/
+
+2.Heroku Documentaion
+https://devcenter.heroku.com/articles/getting-started-with-python
+
+3.Pythonwhere Documentation
+https://www.pythonanywhere.com/

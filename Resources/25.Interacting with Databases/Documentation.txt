@@ -1,0 +1,11 @@
+1.Sqlite3 Documentation
+https://docs.python.org/3/library/sqlite3.html
+
+2.Psycopg Documentation
+https://www.psycopg.org/docs/
+
+3.Psycopg2 Documentation
+https://www.psycopg.org/docs/
+
+4.PostgreSQL Documentation
+https://www.postgresql.org/docs/

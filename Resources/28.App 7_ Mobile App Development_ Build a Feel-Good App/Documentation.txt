@@ -1,0 +1,17 @@
+1.Kivy Documentation
+https://kivy.org/doc/stable/
+
+2.JSON Documentation
+https://www.json.org/json-en.html
+
+3.Datetime Documentation
+https://docs.python.org/3/library/datetime.html
+
+4.Pathlib Documentation
+https://docs.python.org/3/library/pathlib.html
+
+5.Random Documentation
+https://docs.python.org/3/library/random.html
+
+6.Glob Documentation
+https://docs.python.org/3/library/glob.html

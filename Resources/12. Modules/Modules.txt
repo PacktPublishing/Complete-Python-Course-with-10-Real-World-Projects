@@ -1,0 +1,8 @@
+1.Time Doumentation
+https://docs.python.org/3/library/time.html
+
+2.OS Documentation
+https://docs.python.org/3/library/os.html
+
+3.Pandas Documentation
+https://pandas.pydata.org/docs/

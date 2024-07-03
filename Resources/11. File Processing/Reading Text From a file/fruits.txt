@@ -1,0 +1,6 @@
+pear
+apple
+orange
+mandarin
+watermelon
+pomegranate

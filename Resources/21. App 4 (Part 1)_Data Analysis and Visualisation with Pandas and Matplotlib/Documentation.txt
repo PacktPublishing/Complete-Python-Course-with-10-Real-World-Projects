@@ -1,0 +1,8 @@
+1.Datetime Documentation
+https://docs.python.org/3/library/datetime.html
+
+2.Pytz Documentation
+https://pytz.sourceforge.net/
+
+3.Matplotlib Documentation
+https://matplotlib.org/stable/
